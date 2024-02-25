@@ -10,7 +10,7 @@ print sum
 
 
 Input number
-IF number %2 = whole number
+IF number / 2 = whole number
 	print EVEN
 ELSE print ODD
 
@@ -27,7 +27,7 @@ d) Write out the results found from steps b and c with a message describing what
 Input number1, number2, number3, number4, & number5
 
 number1 + number2 + number3 + number4 + number5 = sum
-sum % 5 = AVERAGE
+sum / 5 = AVERAGE
 	print AVERAGE
 print "THE NUMBER ABOVE IS THE AVERAGE OF YOUR 5 NUMBERS."
 
