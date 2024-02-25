@@ -1,0 +1,59 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+
+Input num1 and num2
+num1 + num2 = sum
+print sum
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+
+Input number
+IF number %2 = whole number
+	print EVEN
+ELSE print ODD
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+
+Input number1, number2, number3, number4, & number5
+
+number1 + number2 + number3 + number4 + number5 = sum
+sum % 5 = AVERAGE
+	print AVERAGE
+print "THE NUMBER ABOVE IS THE AVERAGE OF YOUR 5 NUMBERS."
+
+IF number1 < number 2, number 3, number4, & number5
+	print number1 SMALLEST
+ELSE number2 < number1, number3, number4, & number5
+	print number2 SMALLEST
+ELSE number3 < number1, number2, number4, & number5
+	print number3 SMALLEST
+ELSE number4 < number1, number2, number3, & number5
+	print number4 SMALLEST
+ELSE number5 < number1, number2, number3, & number4
+	print number5 SMALLEST
+print "THE NUMBER ABOVE IS THE SMALLEST OF YOUR 5 NUMBERS."
+
+IF number1 > number 2, number 3, number4, & number5
+	print number1 LARGEST
+ELSE number2 > number1, number3, number4, & number5
+	print number2 LARGEST
+ELSE number3 > number1, number2, number4, & number5
+	print number3 LARGEST
+ELSE number4 > number1, number2, number3, & number5
+	print number4 LARGEST
+ELSE number5 > number1, number2, number3, & number4
+	print number5 LARGEST
+print "THE NUMBER ABOVE IS THE LARGEST OF YOUR 5 NUMBERS."
+
+
+-- END --
